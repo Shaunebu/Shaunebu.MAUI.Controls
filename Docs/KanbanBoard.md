@@ -23,7 +23,7 @@ A flexible, interactive Kanban board implementation for .NET MAUI with drag-and-
 
 2. Register the namespace:
    ```xml
-   xmlns:kanban="clr-namespace:Shaunebu.MAUI.Controls;assembly=Shaunebu.MAUI.Controls.FloatingChatButton"
+   xmlns:kanban="http://schemas.shaunebu.com/maui/controls"
    ```
 
 ## Usage
