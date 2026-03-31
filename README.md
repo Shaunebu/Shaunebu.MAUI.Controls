@@ -1,7 +1,7 @@
 ﻿# MAUI Controls Library by Shaunebu
 ![NuGet Version](https://img.shields.io/nuget/v/Shaunebu.MAUI.Controls?color=blue&label=NuGet)
 ![Platform Support](https://img.shields.io/badge/Platforms-Android%20|%20iOS-lightgrey)
-![MAUI Version](https://img.shields.io/badge/.NET%20MAUI-%3E%3D9.0-blueviolet)
+![MAUI Version](https://img.shields.io/badge/.NET%20MAUI-%3E%3D10.0-blueviolet)
 
 <a href="https://www.buymeacoffee.com/jorgepd" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" align="left" style="height: 37px !important;width: 170px !important;" ></a>
 
@@ -661,11 +661,11 @@ Example:
 
 Report issues:  
 
-📧 [jorge.p@jpdblog.com](https://mailto:support@shaunebu.com)  
+📧 [support@shaunebu.com](https://mailto:support@shaunebu.com)  
 🐛 [GitHub Issues](https://github.com/jpd21122012/Shaunebu.MAUI.Controls/issues)
 
 ----------
 ### 📄 License
 
 
-MIT License © 2025 [Jorge Perales Diaz](https://jpdblog.com/)
+MIT License © 2025 [Jorge Perales Diaz](https://shaunebu.com/)
